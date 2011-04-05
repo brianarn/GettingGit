@@ -1,0 +1,5 @@
+# Lines starting with a pound are comments
+# Git ignores these lines
+#
+# List the patterns you want to ignore, one per line
+.DS_Store
